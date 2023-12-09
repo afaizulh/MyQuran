@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="colorPrimary" type="color">@color/primary</item>
+    <item name="colorOnPrimary" type="color">@color/on_primary</item>
+
+    <item name="colorPrimaryContainer" type="color">@color/primary_container</item>
+    <item name="colorOnPrimaryContainer" type="color">@color/on_primary_container</item>
+
+    <item name="colorSurfaceContainer" type="color">@color/surface_container</item>
+    <item name="colorOnSurface" type="color">@color/on_surface</item>
+
+    <item name="colorBottomNav" type="color">@color/bottom_nav</item>
+</resources>
